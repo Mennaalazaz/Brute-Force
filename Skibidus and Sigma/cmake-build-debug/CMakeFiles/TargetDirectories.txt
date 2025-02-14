@@ -1,0 +1,3 @@
+C:/Users/pc/CLionProjects/Brute Force/Skibidus and Sigma/cmake-build-debug/CMakeFiles/Skibidus_and_Sigma.dir
+C:/Users/pc/CLionProjects/Brute Force/Skibidus and Sigma/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/pc/CLionProjects/Brute Force/Skibidus and Sigma/cmake-build-debug/CMakeFiles/rebuild_cache.dir
